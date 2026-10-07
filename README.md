@@ -57,7 +57,7 @@ Examples of generated outputs include:
 ## Acknowledgments
 CBO's Social Security Wealth Model was developed by **Elizabeth Ash** (formerly of CBO) and **Nadia Karamcheva**. **Jessica Liu** and **Victoria Perez-Zetune** (both formerly of CBO) made important contributions at earlier stages of the project. **Xiaotong Niu**, **Kevin Perese**, **Ian Shayne**, and **Julie Topoleski** reviewed the code.
 
-CBO staff used generative artificial intelligence tools to help write or review the code and documentation in this repository.Staff reviewed all materials here and CBO is responsible for the final work. Results and analytic appropriateness were verified only for the analyses identified in this repository.
+CBO staff used generative artificial intelligence tools to help write or review the code and documentation in this repository. Staff reviewed all materials here and CBO is responsible for the final work. Results and analytic appropriateness were verified only for the analyses identified in this repository.
 
 ## Contact
 Questions may be directed to CBO's Office of Communications at [communications@cbo.gov](mailto:communications@cbo.gov). CBO will respond to inquiries as its workload permits.
