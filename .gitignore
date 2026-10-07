@@ -1,0 +1,23 @@
+# Microsoft Office Files
+#*.xls[xm]
+*.docx
+*.pptx
+
+# PDF files
+*.pdf
+
+# Stata dataset and output files
+*.dta
+*.gph
+*.log
+*.smcl
+*.stpr
+*.stsem
+
+# Temp / backups
+*.tmp
+*.stswp
+
+# OS Nuisance Files
+.DS_Store
+Thumbs.db
